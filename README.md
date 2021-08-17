@@ -10,7 +10,7 @@
 # 0.5: Basic End/Game Over
 # 0.6: Menu
 # 0.7: Add Images
-# 0.8:
+# 0.8: Added More Levels
 # 0.9:
 # 1.0:
 # 1.1:
